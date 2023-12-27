@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    margin: 30px;
+}
+.singersOptions{
+    margin-bottom: 40px;
+    text-align:center;
+}
+.first{
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background-color: #DB8FF8;
+}
+.second{
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background-color: #90EE90;
+}
+
+.third{
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background-color: #7DFFDE ;
+}
+.fourth{
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background-color: #FF7DF9 ;
+}
+.input input{
+    width: 55%;
+    padding: 12px 20px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    height: 50px;
+    font-size: medium;
+}
+.input{
+    text-align: center;
+}
+.textarea{
+    margin-top: 20px;
+    margin-right: 22.5%;
+    margin-left: 22.5%;
+    width: 55%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #535353;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-size: 16px;
+    min-height: 300px;
+    max-height:fit-content;
+}
+.textbox {
+    text-align: center;
+}
+.container{
+    padding: 12px;
+    color: white;
+    border-radius: 10px;
+    display:inline-flex;
+    margin: 2px 2px;
+    max-width:fit-content;
+}
